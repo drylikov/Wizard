@@ -1,0 +1,15 @@
+
+{
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "name": "wizard",
+  "version": "0.0.1",
+  "main": "./lib/wizard",
+  "dependencies": {
+    "prompt": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
