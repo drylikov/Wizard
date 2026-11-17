@@ -1,5 +1,5 @@
 
-# Note to self: Don't ask @substack for feedback on upcoming projects
+# Note to self: Don't ask @substack for feedback on upcoming projects.
 
 # wizard
 
